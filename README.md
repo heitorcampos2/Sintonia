@@ -8,16 +8,16 @@ TV ao vivo com guia de programação, filmes, séries, downloads e gravações �
 
 <br>
 
-<a href="https://github.com/heitorcampos2/Sintonia/releases/download/v2.0.6/Sintonia-2.0.6.apk">
+<a href="https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.0.6.apk">
   <img src="https://img.shields.io/badge/Baixar%20APK-Android%20v2.0.6-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK" height="56">
 </a>
 
 <br><br>
 
-<a href="https://github.com/heitorcampos2/Sintonia/releases/download/v2.0.6/Sintonia-Windows-2.0.6.zip"><img src="https://img.shields.io/badge/Windows-.zip-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"></a>
-<a href="https://github.com/heitorcampos2/Sintonia/releases/download/v2.0.6/sintonia_2.0.6_all.deb"><img src="https://img.shields.io/badge/Linux-.deb-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"></a>
-<a href="https://github.com/heitorcampos2/Sintonia/releases/download/v2.0.6/Sintonia-TV-LG-2.0.6.ipk"><img src="https://img.shields.io/badge/TV%20LG-webOS%20.ipk-A50034?style=flat-square&logo=lg&logoColor=white" alt="TV LG"></a>
-<a href="https://github.com/heitorcampos2/Sintonia/releases"><img src="https://img.shields.io/github/v/release/heitorcampos2/Sintonia?style=flat-square&label=vers%C3%A3o" alt="Versão"></a>
+<a href="https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.0.6.zip"><img src="https://img.shields.io/badge/Windows-.zip-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"></a>
+<a href="https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.0.6_all.deb"><img src="https://img.shields.io/badge/Linux-.deb-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"></a>
+<a href="https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.0.6.ipk"><img src="https://img.shields.io/badge/TV%20LG-webOS%20.ipk-A50034?style=flat-square&logo=lg&logoColor=white" alt="TV LG"></a>
+<img src="https://img.shields.io/badge/vers%C3%A3o-2.0.6-blue?style=flat-square" alt="Versão 2.0.6">
 
 </div>
 
@@ -73,12 +73,12 @@ TV ao vivo com guia de programação, filmes, séries, downloads e gravações �
 
 | Plataforma | Arquivo | Requisitos |
 |---|---|---|
-| 🤖 **Android** (celular, tablet, TV box, Android TV) | [Sintonia-2.0.6.apk](https://github.com/heitorcampos2/Sintonia/releases/download/v2.0.6/Sintonia-2.0.6.apk) | Android 7 ou mais novo |
-| 🪟 **Windows** | [Sintonia-Windows-2.0.6.zip](https://github.com/heitorcampos2/Sintonia/releases/download/v2.0.6/Sintonia-Windows-2.0.6.zip) | Windows 10/11 (o instalador instala o Python se faltar) |
-| 🐧 **Linux** (Ubuntu / Debian / udroid) | [sintonia_2.0.6_all.deb](https://github.com/heitorcampos2/Sintonia/releases/download/v2.0.6/sintonia_2.0.6_all.deb) | Python 3 |
-| 📺 **TV LG** (webOS) | [Sintonia-TV-LG-2.0.6.ipk](https://github.com/heitorcampos2/Sintonia/releases/download/v2.0.6/Sintonia-TV-LG-2.0.6.ipk) | Modo desenvolvedor ativado |
+| 🤖 **Android** (celular, tablet, TV box, Android TV) | [Sintonia-2.0.6.apk](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.0.6.apk) | Android 7 ou mais novo |
+| 🪟 **Windows** | [Sintonia-Windows-2.0.6.zip](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.0.6.zip) | Windows 10/11 (o instalador instala o Python se faltar) |
+| 🐧 **Linux** (Ubuntu / Debian / udroid) | [sintonia_2.0.6_all.deb](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.0.6_all.deb) | Python 3 |
+| 📺 **TV LG** (webOS) | [Sintonia-TV-LG-2.0.6.ipk](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.0.6.ipk) | Modo desenvolvedor ativado |
 
-Todas as versões estão em **[Releases](https://github.com/heitorcampos2/Sintonia/releases)**.
+Os arquivos ficam na pasta **[`downloads/`](downloads)**.
 
 ## 🚀 Como instalar
 
