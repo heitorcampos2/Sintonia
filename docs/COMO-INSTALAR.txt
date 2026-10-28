@@ -1,0 +1,61 @@
+SINTONIA 2.0.6 - COMO INSTALAR
+Criado por Haizougou
+==========================================================
+
+PASTAS
+  Android\   -> Sintonia-2.0.6.apk  (celular, tablet e TV/TV box Android 7 ou mais novo)
+  Linux\     -> sintonia_2.0.6_all.deb  (tablet com Ubuntu/udroid)
+  TV LG\     -> Sintonia-TV-LG-2.0.6.ipk  (TV LG webOS, modo desenvolvedor)
+  Windows\   -> Sintonia-Windows-2.0.6.zip  (PC)
+
+----------------------------------------------------------
+1) TABLET LINUX (udroid) - pacote .deb
+----------------------------------------------------------
+Copie o sintonia_2.0.6_all.deb para a pasta Download do tablet
+e cole no terminal do Ubuntu:
+
+sintonia --parar 2>/dev/null; pkill -f "sintonia" 2>/dev/null; sleep 1
+cp /sdcard/Download/sintonia_2.0.6_all.deb ~/ && sudo apt install -y ~/sintonia_2.0.6_all.deb
+sintonia --abrir
+
+Se nao achar o arquivo, troque /sdcard/Download por ~/storage/downloads
+Confira em Menu > Sobre: "Versao 2.0.6 - instalada".
+
+----------------------------------------------------------
+2) ANDROID (celular, tablet, TV box) - .apk
+----------------------------------------------------------
+Copie o Sintonia-2.0.6.apk para o aparelho (pendrive ou Download)
+e abra pelo gerenciador de arquivos. Se pedir, permita
+"instalar apps de fontes desconhecidas".
+Na TV/TV box o app aparece na tela inicial e usa a tela
+propria para controle remoto (roda sozinho, sem sincronizar).
+
+Imagem no canto (PiP), novo na 2.0.6: no player toque no botao
+de janelinha (barra de cima) ou aperte Inicio com o video tocando.
+Na janelinha da para pausar/continuar; fechando, o video para.
+
+----------------------------------------------------------
+3) WINDOWS - .zip
+----------------------------------------------------------
+Extraia o zip e de dois cliques em "Instalar Sintonia.bat".
+Para atualizar: Menu Iniciar > Sintonia > Parar o Sintonia,
+instale por cima e abra o Sintonia de novo.
+
+----------------------------------------------------------
+4) TV LG (webOS) - .ipk  (pelo celular Android com Termux)
+----------------------------------------------------------
+Na TV: LG Content Store > app "Developer Mode" > ative
+Dev Mode Status e Key Server. Anote o IP e a Passphrase.
+Celular e TV no mesmo Wi-Fi. Copie o .ipk para a pasta
+Download do celular e cole no Termux (instalado pelo F-Droid):
+
+termux-setup-storage
+pkg update -y && pkg install -y nodejs
+npm install -g @webos-tools/cli
+ares-setup-device -a tv -i "host=IP_DA_TV" -i "port=9922" -i "username=prisoner"
+ares-novacom --device tv --getkey
+ares-install --device tv ~/storage/downloads/Sintonia-TV-LG-2.0.6.ipk
+
+(troque IP_DA_TV pelo IP; no --getkey digite a Passphrase)
+A cada 50 horas renove o modo desenvolvedor:
+ares-extend-dev --device tv
