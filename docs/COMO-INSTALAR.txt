@@ -1,16 +1,19 @@
-﻿SINTONIA 2.0.7 - COMO INSTALAR
+﻿SINTONIA 2.0.8 - COMO INSTALAR
 Criado por Haizougou
 ==========================================================
 
 PASTAS
-  Android\   -> Sintonia-2.0.7.apk  (celular, tablet e TV/TV box Android 7 ou mais novo)
-  Linux\     -> sintonia_2.0.7_all.deb  (tablet com Ubuntu/udroid)
-  TV LG\     -> Sintonia-TV-LG-2.0.7.ipk  (TV LG webOS, modo desenvolvedor)
-  Windows\   -> Sintonia-Windows-2.0.7.zip  (PC)
+  Android\   -> Sintonia-2.0.8.apk  (celular, tablet e TV/TV box Android 7 ou mais novo)
+  Linux\     -> sintonia_2.0.8_all.deb  (tablet com Ubuntu/udroid)
+  TV LG\     -> Sintonia-TV-LG-2.0.8.ipk  (TV LG webOS, modo desenvolvedor)
+  Windows\   -> Sintonia-Windows-2.0.8.zip  (PC)
 
 ----------------------------------------------------------
-NOVIDADES DA 2.0.7
+NOVIDADES DA 2.0.8
 ----------------------------------------------------------
+- Celular em pe: temporadas da serie numa lista suspensa.
+
+DA 2.0.7:
 - Sincronizar aparelhos (opcional): Menu > Sincronizar aparelhos
   na rede. O Sintonia procura sozinho os outros no mesmo Wi-Fi.
   Ou toque em "Mostrar QR deste aparelho" e leia no celular.
@@ -28,26 +31,26 @@ NOVIDADES DA 2.0.7
 ----------------------------------------------------------
 1) TABLET LINUX (udroid) - pacote .deb
 ----------------------------------------------------------
-Copie o sintonia_2.0.7_all.deb para a pasta Download do tablet
+Copie o sintonia_2.0.8_all.deb para a pasta Download do tablet
 e cole no terminal do Ubuntu:
 
 sintonia --parar 2>/dev/null; pkill -f "sintonia" 2>/dev/null; sleep 1
-cp /sdcard/Download/sintonia_2.0.7_all.deb ~/ && sudo apt install -y ~/sintonia_2.0.7_all.deb
+cp /sdcard/Download/sintonia_2.0.8_all.deb ~/ && sudo apt install -y ~/sintonia_2.0.8_all.deb
 sintonia --abrir
 
 Se nao achar o arquivo, troque /sdcard/Download por ~/storage/downloads
-Confira em Menu > Sobre: "Versao 2.0.7 - instalada".
+Confira em Menu > Sobre: "Versao 2.0.8 - instalada".
 
 ----------------------------------------------------------
 2) ANDROID (celular, tablet, TV box) - .apk
 ----------------------------------------------------------
-Copie o Sintonia-2.0.7.apk para o aparelho (pendrive ou Download)
+Copie o Sintonia-2.0.8.apk para o aparelho (pendrive ou Download)
 e abra pelo gerenciador de arquivos. Se pedir, permita
 "instalar apps de fontes desconhecidas".
 Na TV/TV box o app aparece na tela inicial e usa a tela
 propria para controle remoto (roda sozinho, sem sincronizar).
 
-Imagem no canto (PiP), novo na 2.0.7: no player toque no botao
+Imagem no canto (PiP), novo na 2.0.8: no player toque no botao
 de janelinha (barra de cima) ou aperte Inicio com o video tocando.
 Na janelinha da para pausar/continuar; fechando, o video para.
 
@@ -71,7 +74,7 @@ pkg update -y && pkg install -y nodejs
 npm install -g @webos-tools/cli
 ares-setup-device -a tv -i "host=IP_DA_TV" -i "port=9922" -i "username=prisoner"
 ares-novacom --device tv --getkey
-ares-install --device tv ~/storage/downloads/Sintonia-TV-LG-2.0.7.ipk
+ares-install --device tv ~/storage/downloads/Sintonia-TV-LG-2.0.8.ipk
 
 (troque IP_DA_TV pelo IP; no --getkey digite a Passphrase)
 A cada 50 horas renove o modo desenvolvedor:
