@@ -67,6 +67,7 @@ TV ao vivo com guia de programação, filmes, séries, downloads e gravações �
 - **Anterior / próximo no player**: troca de canal, episódio ou filme da mesma categoria
 - **Título personalizado com logomarca (PNG)** no espaço livre da barra lateral (*Menu › Tema e cores*)
 - **TV (Android TV e LG)**: busca o Sintonia do PC na rede e sincroniza nos dois sentidos
+- **Atualização pelo GitHub**: quando sai versão nova aparece **🔁 no canto superior direito**. No PC (Windows/Linux) atualiza e reabre sozinho; no Android baixa o APK e abre o instalador; na TV LG mostra qual arquivo instalar
 
 ### 🛠️ Mais
 - **Imagem no canto (PiP)** no Android

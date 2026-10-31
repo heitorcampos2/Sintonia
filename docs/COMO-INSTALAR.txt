@@ -21,6 +21,9 @@ NOVIDADES DA 2.0.7
   personalizado.
 - TV: Configuracoes > Sincronizar com outros aparelhos e
   Mostrar minha lista em QR.
+- Atualizacao pelo GitHub: quando sair versao nova aparece 🔁
+  no canto superior direito. No PC atualiza sozinho; no
+  Android baixa e abre o instalador; na TV LG mostra o arquivo.
 
 ----------------------------------------------------------
 1) TABLET LINUX (udroid) - pacote .deb
