@@ -1,20 +1,16 @@
 {
-  "version": "2.0.8",
+  "version": "2.0.9",
   "date": "2026-10-31",
   "notes": [
-    "Celular em pé: temporadas da série numa lista suspensa",
-    "Sincronização fácil: encontra sozinho os outros Sintonia no mesmo Wi-Fi (opcional)",
-    "Parear por QR, sem digitar IP",
-    "Importar e exportar listas por arquivo, texto, link ou QR",
-    "Botões anterior e próximo no player (canal, episódio, filme)",
-    "Título personalizado com logomarca na barra lateral",
-    "Atualização pelo GitHub: 🔁 no canto superior direito quando sai versão nova"
+    "Downloads completos: se a internet cair, continua de onde parou sem perder a %",
+    "Fechou o Sintonia no meio do download? Ao abrir, ele continua sozinho",
+    "Celular em pé: temporadas da série numa lista suspensa"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.0.8.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.0.8.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.0.8_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.0.8.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.0.9.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.0.9.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.0.9_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.0.9.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
