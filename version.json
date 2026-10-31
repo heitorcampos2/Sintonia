@@ -1,16 +1,17 @@
 {
-  "version": "2.0.9",
+  "version": "2.1.0",
   "date": "2026-10-31",
   "notes": [
+    "Gravar: um toque grava, o botão vira Parar e aparece a bolinha vermelha \"Gravando\"",
+    "Em tela cheia as opções aparecem por cima do vídeo",
     "Downloads completos: se a internet cair, continua de onde parou sem perder a %",
-    "Fechou o Sintonia no meio do download? Ao abrir, ele continua sozinho",
-    "Celular em pé: temporadas da série numa lista suspensa"
+    "Fechou o Sintonia no meio do download? Ao abrir, ele continua sozinho"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.0.9.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.0.9.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.0.9_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.0.9.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.1.0.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.1.0.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.1.0_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.1.0.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
