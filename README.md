@@ -8,8 +8,8 @@ TV ao vivo com guia de programação, filmes, séries, downloads e gravações �
 
 <br>
 
-<a href="https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.0.6.apk">
-  <img src="https://img.shields.io/badge/Baixar%20APK-Android%20v2.0.6-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK" height="56">
+<a href="https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.0.7.apk">
+  <img src="https://img.shields.io/badge/Baixar%20APK-Android%20v2.0.7-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK" height="56">
 </a>
 
 <br><br>
@@ -82,7 +82,7 @@ TV ao vivo com guia de programação, filmes, séries, downloads e gravações �
 
 | Plataforma | Arquivo | Requisitos |
 |---|---|---|
-| 🤖 **Android** (celular, tablet, TV box, Android TV) | [Sintonia-2.0.6.apk](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.0.6.apk) | Android 7 ou mais novo · *o APK 2.0.7 sai em breve* |
+| 🤖 **Android** (celular, tablet, TV box, Android TV) | [Sintonia-2.0.7.apk](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.0.7.apk) | Android 7 ou mais novo |
 | 🪟 **Windows** | [Sintonia-Windows-2.0.7.zip](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.0.7.zip) | Windows 10/11 (o instalador instala o Python se faltar) |
 | 🐧 **Linux** (Ubuntu / Debian / udroid) | [sintonia_2.0.7_all.deb](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.0.7_all.deb) | Python 3 |
 | 📺 **TV LG** (webOS) | [Sintonia-TV-LG-2.0.7.ipk](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.0.7.ipk) | Modo desenvolvedor ativado |
@@ -94,7 +94,7 @@ Os arquivos ficam na pasta **[`downloads/`](downloads)**.
 <details>
 <summary><b>🤖 Android</b></summary>
 
-1. Baixe o **Sintonia-2.0.6.apk** *(a 2.0.7 do Android sai em breve)* no aparelho (ou copie por pendrive).
+1. Baixe o **Sintonia-2.0.7.apk** no aparelho (ou copie por pendrive).
 2. Abra pelo gerenciador de arquivos.
 3. Se pedir, permita **"instalar apps de fontes desconhecidas"**.
 

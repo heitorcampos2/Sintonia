@@ -10,6 +10,7 @@
     "Atualização pelo GitHub: 🔁 no canto superior direito quando sai versão nova"
   ],
   "files": {
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.0.7.apk",
     "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.0.7.zip",
     "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.0.7_all.deb",
     "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.0.7.ipk"
