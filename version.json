@@ -1,17 +1,17 @@
 {
-  "version": "2.1.0",
-  "date": "2026-10-31",
+  "version": "2.1.1",
+  "date": "2026-11-01",
   "notes": [
+    "Sobre › Atualização: sugestão do Spectra Launcher (tela inicial para Android TV) com botão para baixar",
+    "Sobre: desenvolvedor Heitor Campos (GitHub heitorcampos2)",
     "Gravar: um toque grava, o botão vira Parar e aparece a bolinha vermelha \"Gravando\"",
-    "Em tela cheia as opções aparecem por cima do vídeo",
-    "Downloads completos: se a internet cair, continua de onde parou sem perder a %",
-    "Fechou o Sintonia no meio do download? Ao abrir, ele continua sozinho"
+    "Em tela cheia as opções aparecem por cima do vídeo"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.1.0.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.1.0.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.1.0_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.1.0.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.1.1.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.1.1.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.1.1_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.1.1.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
