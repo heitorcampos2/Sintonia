@@ -1,17 +1,16 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "date": "2026-11-01",
   "notes": [
-    "Android TV: ao vivo no player nativo, abre e troca de canal bem mais rápido",
-    "Navegação pelo controle mais leve",
-    "Canais e vídeos começam bem mais rápido (ao vivo em cerca de 1 s)",
-    "Mais leve na TV e em aparelhos com pouca memória"
+    "Android TV: volta a tela própria de TV (corrige filmes que fechavam)",
+    "Continua o player nativo rápido no ao vivo, filmes e séries",
+    "Sugestão do SmartTube (estável) na atualização"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.2.2.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.2.2.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.2.2_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.2.2.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.2.3.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.2.3.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.2.3_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.2.3.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
