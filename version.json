@@ -1,16 +1,17 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "date": "2026-11-01",
   "notes": [
+    "Canais e vídeos começam bem mais rápido (ao vivo em cerca de 1 s)",
+    "Mais leve na TV e em aparelhos com pouca memória",
     "Android TV com a mesma interface e as mesmas funções do celular/tablet, pelo controle remoto",
-    "Escolha a pasta dos downloads e das gravações (memória, cartão, pendrive, disco)",
-    "Na TV, opcional: player nativo do Android"
+    "Escolha a pasta dos downloads e das gravações (memória, cartão, pendrive, disco)"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.2.0.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.2.0.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.2.0_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.2.0.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.2.1.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.2.1.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.2.1_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.2.1.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
