@@ -1,16 +1,28 @@
-﻿SINTONIA 2.2.5 - COMO INSTALAR
+﻿SINTONIA 2.2.6 - COMO INSTALAR
 Desenvolvido por Heitor Campos (GitHub: heitorcampos2)
 ==========================================================
 
 PASTAS
-  Android\   -> Sintonia-2.2.5.apk  (celular, tablet e TV/TV box Android 7 ou mais novo)
-  Linux\     -> sintonia_2.2.5_all.deb  (tablet com Ubuntu/udroid)
-  TV LG\     -> Sintonia-TV-LG-2.2.5.ipk  (TV LG webOS, modo desenvolvedor)
-  Windows\   -> Sintonia-Windows-2.2.5.zip  (PC)
+  Android\   -> Sintonia-2.2.6.apk  (celular, tablet e TV/TV box Android 7 ou mais novo)
+  Linux\     -> sintonia_2.2.6_all.deb  (tablet com Ubuntu/udroid)
+  TV LG\     -> Sintonia-TV-LG-2.2.6.ipk  (TV LG webOS, modo desenvolvedor)
+  Windows\   -> Sintonia-Windows-2.2.6.zip  (PC)
 
 ----------------------------------------------------------
-NOVIDADES DA 2.2.5
+NOVIDADES DA 2.2.6
 ----------------------------------------------------------
+- Android TV: o player nao vira mais imagem no canto
+  (miniatura). Saiu do video, ele fecha e guarda onde parou;
+  nunca ficam dois canais abertos ao mesmo tempo.
+- Android TV e TV LG: visual igual ao do celular/tablet (menu
+  com icones, coluna de categorias, busca no canto, canais em
+  lista de duas colunas, filmes e series em grade).
+- Controle remoto: passar pela categoria ja mostra os itens;
+  seta direita entra na lista; seta esquerda volta para a
+  categoria escolhida e depois para o menu (que lembra onde
+  voce estava); CH+/CH- pulam uma pagina.
+
+DA 2.2.5:
 - Listas que funcionam em outros apps de IPTV e ficavam em
   "Carregando canais..." ou davam "Sem conexao com o servidor
   da lista" agora carregam. Quando o DNS da internet/roteador
@@ -112,27 +124,27 @@ DA 2.0.7:
 ----------------------------------------------------------
 1) TABLET LINUX (udroid) - pacote .deb
 ----------------------------------------------------------
-Copie o sintonia_2.2.5_all.deb para a pasta Download do tablet
+Copie o sintonia_2.2.6_all.deb para a pasta Download do tablet
 e cole no terminal do Ubuntu:
 
 sintonia --parar 2>/dev/null; pkill -f "sintonia" 2>/dev/null; sleep 1
-cp /sdcard/Download/sintonia_2.2.5_all.deb ~/ && sudo apt install -y ~/sintonia_2.2.5_all.deb
+cp /sdcard/Download/sintonia_2.2.6_all.deb ~/ && sudo apt install -y ~/sintonia_2.2.6_all.deb
 sintonia --abrir
 
 Se nao achar o arquivo, troque /sdcard/Download por ~/storage/downloads
-Confira em Menu > Sobre: "Versao 2.2.5 - instalada".
+Confira em Menu > Sobre: "Versao 2.2.6 - instalada".
 
 ----------------------------------------------------------
 2) ANDROID (celular, tablet, TV box) - .apk
 ----------------------------------------------------------
-Copie o Sintonia-2.2.5.apk para o aparelho (pendrive ou Download)
+Copie o Sintonia-2.2.6.apk para o aparelho (pendrive ou Download)
 e abra pelo gerenciador de arquivos. Se pedir, permita
 "instalar apps de fontes desconhecidas".
 Na TV/TV box o app aparece na tela inicial e usa a tela
 propria para controle remoto (roda sozinho, sem sincronizar).
 
-Imagem no canto (PiP), desde a 2.2.2: no player toque no botao
-de janelinha (barra de cima) ou aperte Inicio com o video tocando.
+Imagem no canto (PiP), so no celular/tablet: no player toque no
+botao de janelinha (barra de cima) ou aperte Inicio com o video.
 Na janelinha da para pausar/continuar; fechando, o video para.
 
 ----------------------------------------------------------
@@ -155,7 +167,7 @@ pkg update -y && pkg install -y nodejs
 npm install -g @webos-tools/cli
 ares-setup-device -a tv -i "host=IP_DA_TV" -i "port=9922" -i "username=prisoner"
 ares-novacom --device tv --getkey
-ares-install --device tv ~/storage/downloads/Sintonia-TV-LG-2.2.5.ipk
+ares-install --device tv ~/storage/downloads/Sintonia-TV-LG-2.2.6.ipk
 
 (troque IP_DA_TV pelo IP; no --getkey digite a Passphrase)
 A cada 50 horas renove o modo desenvolvedor:
