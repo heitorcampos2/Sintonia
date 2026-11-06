@@ -1,16 +1,15 @@
 {
-  "version": "2.2.3",
-  "date": "2026-11-01",
+  "version": "2.2.4",
+  "date": "2026-11-06",
   "notes": [
-    "Android TV: volta a tela própria de TV (corrige filmes que fechavam)",
-    "Continua o player nativo rápido no ao vivo, filmes e séries",
-    "Sugestão do SmartTube (estável) na atualização"
+    "Android TV: listas que funcionam em outros apps de IPTV agora carregam (antes: \"Sem conexão com o servidor da lista\")",
+    "Mensagens de erro mais claras na TV"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.2.3.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.2.3.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.2.3_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.2.3.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.2.4.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.2.4.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.2.4_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.2.4.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
