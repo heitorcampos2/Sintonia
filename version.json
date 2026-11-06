@@ -1,17 +1,16 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.1",
   "date": "2026-11-06",
   "notes": [
-    "Abre bem mais rápido (lista guardada, atualiza em segundo plano)",
-    "TV: ordem A-Z/adicionados/lançamento/nota e modo de tela no player",
-    "Celular: gestos de brilho e volume no player",
-    "Sincronização acha os aparelhos na hora (mDNS)"
+    "TV: escolha quando atualizar a lista",
+    "TV: segure OK para ver as opções de um item",
+    "TV: Configurações em grupos e tela Personalização"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.3.0.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.3.0.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.3.0_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.3.0.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.3.1.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.3.1.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.3.1_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.3.1.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
