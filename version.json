@@ -1,14 +1,15 @@
 {
-  "version": "2.3.3",
+  "version": "2.3.4",
   "date": "2026-11-06",
   "notes": [
-    "Celular: tirado o retângulo preto do meio do player"
+    "Android TV: corrigido o app fechando ao abrir canal ao vivo",
+    "Android TV: sem travadinhas logo depois de abrir"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.3.3.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.3.3.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.3.3_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.3.3.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.3.4.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.3.4.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.3.4_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.3.4.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
