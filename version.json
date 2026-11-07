@@ -1,15 +1,16 @@
 {
-  "version": "2.3.4",
+  "version": "2.3.5",
   "date": "2026-11-06",
   "notes": [
-    "Android TV: corrigido o app fechando ao abrir canal ao vivo",
-    "Android TV: sem travadinhas logo depois de abrir"
+    "Android TV: ao vivo abre mais rápido (conexão aquecida)",
+    "Android TV: pedido de reserva quando o servidor trava",
+    "Player abre e fecha sem animação"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.3.4.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.3.4.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.3.4_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.3.4.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.3.5.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.3.5.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.3.5_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.3.5.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
