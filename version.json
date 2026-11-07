@@ -1,16 +1,16 @@
 {
-  "version": "2.3.8",
+  "version": "2.3.9",
   "date": "2026-11-07",
   "notes": [
-    "Android TV: interface mais leve",
-    "Troca de categoria mais rápida",
-    "Banco da 2.3.7 aproveitado, sem baixar de novo"
+    "Nova seção opcional Canais YouTube",
+    "CNN Brasil ao vivo já na lista",
+    "Busque e adicione canais do YouTube"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.3.8.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.3.8.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.3.8_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.3.8.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.3.9.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.3.9.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.3.9_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.3.9.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
