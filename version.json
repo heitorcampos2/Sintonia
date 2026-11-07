@@ -1,16 +1,16 @@
 {
-  "version": "2.3.5",
+  "version": "2.3.6",
   "date": "2026-11-06",
   "notes": [
-    "Android TV: ao vivo abre mais rápido (conexão aquecida)",
-    "Android TV: pedido de reserva quando o servidor trava",
-    "Player abre e fecha sem animação"
+    "Android TV: filme e série abrem na hora",
+    "Cópia das listas guardada em arquivo",
+    "Pedidos com reserva quando o servidor demora"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.3.5.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.3.5.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.3.5_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.3.5.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.3.6.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.3.6.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.3.6_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.3.6.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
