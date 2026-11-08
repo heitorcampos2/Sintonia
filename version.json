@@ -1,16 +1,16 @@
 {
-  "version": "2.3.9",
-  "date": "2026-11-07",
+  "version": "2.4.0",
+  "date": "2026-11-08",
   "notes": [
-    "Nova seção opcional Canais YouTube",
-    "CNN Brasil ao vivo já na lista",
-    "Busque e adicione canais do YouTube"
+    "Ao vivo abre mais rápido",
+    "Servidor travado: reserva em 2,5 s",
+    "Troca de canal sem falhar em conta de 1 conexão"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.3.9.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.3.9.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.3.9_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.3.9.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.4.0.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.4.0.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.4.0_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.4.0.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }

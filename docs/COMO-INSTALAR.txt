@@ -1,16 +1,26 @@
-﻿SINTONIA 2.3.9 - COMO INSTALAR
+﻿SINTONIA 2.4.0 - COMO INSTALAR
 Desenvolvido por Heitor Campos (GitHub: heitorcampos2)
 ==========================================================
 
 PASTAS
-  Android\   -> Sintonia-2.3.9.apk  (celular, tablet e TV/TV box Android 7 ou mais novo)
-  Linux\     -> sintonia_2.3.9_all.deb  (tablet com Ubuntu/udroid)
-  TV LG\     -> Sintonia-TV-LG-2.3.9.ipk  (TV LG webOS, modo desenvolvedor)
-  Windows\   -> Sintonia-Windows-2.3.9.zip  (PC)
+  Android\   -> Sintonia-2.4.0.apk  (celular, tablet e TV/TV box Android 7 ou mais novo)
+  Linux\     -> sintonia_2.4.0_all.deb  (tablet com Ubuntu/udroid)
+  TV LG\     -> Sintonia-TV-LG-2.4.0.ipk  (TV LG webOS, modo desenvolvedor)
+  Windows\   -> Sintonia-Windows-2.4.0.zip  (PC)
 
 ----------------------------------------------------------
-NOVIDADES DA 2.3.9
+NOVIDADES DA 2.4.0
 ----------------------------------------------------------
+- Ao vivo mais rapido no Windows/Linux/celular: o Sintonia repassa o
+  video assim que os primeiros bytes chegam e o player comeca a
+  decodificar com menos dados (teste com lista real: ~1,45 s -> ~1,1 s).
+- Servidor da lista travado: pedido reserva depois de 2,5 s
+  (antes esperava 10 s ou mais).
+- 1o canal depois de abrir o app nao espera mais os dados da conta.
+- Conta de 1 conexao (erro 409 ao trocar de canal): pede de novo a
+  cada 0,4 s em vez de desistir - tambem na Android TV.
+
+DA 2.3.9:
 - Nova secao opcional Canais YouTube (TV: Configuracoes > Opcionais;
   PC/celular: Menu > Opcionais). Vem desligada; ao ligar aparece
   no menu depois de Filmes.
@@ -224,20 +234,20 @@ DA 2.0.7:
 ----------------------------------------------------------
 1) TABLET LINUX (udroid) - pacote .deb
 ----------------------------------------------------------
-Copie o sintonia_2.3.9_all.deb para a pasta Download do tablet
+Copie o sintonia_2.4.0_all.deb para a pasta Download do tablet
 e cole no terminal do Ubuntu:
 
 sintonia --parar 2>/dev/null; pkill -f "sintonia" 2>/dev/null; sleep 1
-cp /sdcard/Download/sintonia_2.3.9_all.deb ~/ && sudo apt install -y ~/sintonia_2.3.9_all.deb
+cp /sdcard/Download/sintonia_2.4.0_all.deb ~/ && sudo apt install -y ~/sintonia_2.4.0_all.deb
 sintonia --abrir
 
 Se nao achar o arquivo, troque /sdcard/Download por ~/storage/downloads
-Confira em Menu > Sobre: "Versao 2.3.9 - instalada".
+Confira em Menu > Sobre: "Versao 2.4.0 - instalada".
 
 ----------------------------------------------------------
 2) ANDROID (celular, tablet, TV box) - .apk
 ----------------------------------------------------------
-Copie o Sintonia-2.3.9.apk para o aparelho (pendrive ou Download)
+Copie o Sintonia-2.4.0.apk para o aparelho (pendrive ou Download)
 e abra pelo gerenciador de arquivos. Se pedir, permita
 "instalar apps de fontes desconhecidas".
 Na TV/TV box o app aparece na tela inicial e usa a tela
@@ -267,7 +277,7 @@ pkg update -y && pkg install -y nodejs
 npm install -g @webos-tools/cli
 ares-setup-device -a tv -i "host=IP_DA_TV" -i "port=9922" -i "username=prisoner"
 ares-novacom --device tv --getkey
-ares-install --device tv ~/storage/downloads/Sintonia-TV-LG-2.3.9.ipk
+ares-install --device tv ~/storage/downloads/Sintonia-TV-LG-2.4.0.ipk
 
 (troque IP_DA_TV pelo IP; no --getkey digite a Passphrase)
 A cada 50 horas renove o modo desenvolvedor:
