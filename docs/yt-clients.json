@@ -1,0 +1,59 @@
+{
+ "about": "Clientes da API do YouTube usados pelo Sintonia, copiados do SmartTube (MediaServiceCore, MIT).",
+ "smarttube": {
+  "commit": "1087a014f027113ab0cb9ff77b274563530bb2f1",
+  "date": "2026-11-14T10:56:38+02:00"
+ },
+ "generated": "2026-11-14T15:58:48Z",
+ "vodOrder": [
+  "IOS",
+  "ANDROID_VR",
+  "ANDROID"
+ ],
+ "liveOrder": [
+  "ANDROID",
+  "IOS"
+ ],
+ "clients": {
+  "WEB": {
+   "context": {
+    "clientName": "WEB",
+    "clientVersion": "2.20260907.06.00"
+   },
+   "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
+  },
+  "ANDROID": {
+   "context": {
+    "clientName": "ANDROID",
+    "clientVersion": "21.26.364",
+    "osName": "Android",
+    "osVersion": "11",
+    "androidSdkVersion": 30
+   },
+   "ua": "com.google.android.youtube/21.26.364 (Linux; U; Android 11) gzip"
+  },
+  "IOS": {
+   "context": {
+    "clientName": "IOS",
+    "clientVersion": "21.26.4",
+    "osName": "iPhone",
+    "osVersion": "18.3.2.22D82",
+    "deviceMake": "Apple",
+    "deviceModel": "iPhone16,2"
+   },
+   "ua": "com.google.ios.youtube/21.26.4 (iPhone16,2; U; CPU iOS 18_3_2 like Mac OS X;)"
+  },
+  "ANDROID_VR": {
+   "context": {
+    "clientName": "ANDROID_VR",
+    "clientVersion": "1.65.10",
+    "osName": "Android",
+    "osVersion": "12",
+    "androidSdkVersion": 32,
+    "deviceMake": "Oculus",
+    "deviceModel": "Quest 3"
+   },
+   "ua": "com.google.android.apps.youtube.vr.oculus/1.65.10 (Linux; U; Android 12L; eureka-user Build/SQ3A.220605.009.A1) gzip"
+  }
+ }
+}
