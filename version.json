@@ -1,14 +1,14 @@
 {
-  "version": "2.5.3",
-  "date": "2026-11-15",
+  "version": "3.0",
+  "date": "2026-11-17",
   "notes": [
-    "Relógio e data na TV",
-    "Navegação mais rápida na TV"
+    "Modo offline na tela de preparo: vai direto para os vídeos baixados",
+    "Sem lista: acesso só com os Canais YouTube"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-2.5.3.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-2.5.3.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_2.5.3_all.deb",
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.0.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.0.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.0_all.deb",
     "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-2.5.3.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
