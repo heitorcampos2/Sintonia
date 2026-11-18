@@ -1,14 +1,15 @@
 {
-  "version": "3.1.29",
-  "date": "2026-11-17",
+  "version": "3.1.30",
+  "date": "2026-11-18",
   "notes": [
-    "Desempenho aprimorado"
+    "Continuar assistindo, canais favoritos e YouTube aparecem no Spectra do tablet e do PC",
+    "Cartões do Spectra abrem direto no filme, episódio ou canal"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.29.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.29.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.29_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.29.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.30.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.30.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.30_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.30.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
