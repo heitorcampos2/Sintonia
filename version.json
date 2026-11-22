@@ -1,16 +1,16 @@
 {
-  "version": "3.1.39",
+  "version": "3.1.40",
   "date": "2026-11-22",
   "notes": [
-    "Android TV / TV box: Downloads (Offline) também na interface de TV. Filmes: \"⬇ Baixar\"; séries: \"⬇ Baixar temporada\" ou segure OK num episódio",
-    "TV: nova seção Offline no menu com o andamento dos downloads; OK assiste o arquivo baixado no player da TV, mesmo sem internet",
-    "TV: Configurações › Opcionais › Downloads (Offline) liga/desliga e escolhe a pasta (memória interna, Download ou pendrive)"
+    "TV (Android TV, TV box e LG): Configurações › Personalização › Aparência com Estilo (Neon, Cromado, Vidro, AMOLED, Retrô)",
+    "TV: Fundo Preto, Branco, Cinza claro, Preto OLED ou cor personalizada; as letras e os painéis se ajustam sozinhos ao fundo",
+    "TV: Cor de destaque personalizada (12 cores ou código #RRGGBB) e Cor dos ícones do menu (padrão, destaque, brancos ou coloridos)"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.39.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.39.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.39_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.39.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.40.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.40.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.40_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.40.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
