@@ -1,21 +1,15 @@
 {
-  "version": "3.1.34",
+  "version": "3.1.35",
   "date": "2026-11-22",
   "notes": [
-    "Canais (vídeos): botão Shorts com os Shorts dos seus canais em tela em pé",
-    "PC: botão Inscrições (com a sua conta do YouTube) e, no player do YouTube, Picture-in-picture e Curtir",
-    "Novos estilos em Menu › Tema e cores: Neon, Cromado, Vidro, AMOLED e Retrô",
-    "Fundo personalizado: Preto, Branco, Cinza claro, Preto OLED ou uma cor sua — as letras se ajustam sozinhas ao fundo",
-    "Filmes e Séries: engrenagem da categoria › Tamanho dos cartões (Pequeno, Médio, Grande ou Personalizado em px)",
-    "PC: escolha o ícone do Sintonia (9 opções; também ficam na pasta 'Ícones')",
-    "TV: logomarca escolhida da galeria ou por link",
-    "PC: vídeos do YouTube abertos pelo Spectra tocam na seção Canais do Sintonia"
+    "PC: o item clicado no Spectra abre na janela do Sintonia que já está aberta (não abre outra janela) e ela vem para a frente",
+    "PC: Inscrições, Curtir e Shorts do YouTube abrem numa janela própria, sem barra do navegador, com a sua conta"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.34.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.34.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.34_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.34.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.35.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.35.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.35_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.35.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
