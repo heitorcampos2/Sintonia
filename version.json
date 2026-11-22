@@ -1,15 +1,16 @@
 {
-  "version": "3.1.38",
+  "version": "3.1.39",
   "date": "2026-11-22",
   "notes": [
-    "Downloads (Offline) com chave de ligar/desligar em Menu › Opcionais: desligado, somem a seção Offline e os botões de baixar e gravar",
-    "Ali mesmo dá para escolher a pasta dos downloads e a das gravações"
+    "Android TV / TV box: Downloads (Offline) também na interface de TV. Filmes: \"⬇ Baixar\"; séries: \"⬇ Baixar temporada\" ou segure OK num episódio",
+    "TV: nova seção Offline no menu com o andamento dos downloads; OK assiste o arquivo baixado no player da TV, mesmo sem internet",
+    "TV: Configurações › Opcionais › Downloads (Offline) liga/desliga e escolhe a pasta (memória interna, Download ou pendrive)"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.38.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.38.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.38_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.38.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.39.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.39.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.39_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.39.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
