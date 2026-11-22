@@ -8,16 +8,16 @@ TV ao vivo com guia de programação, filmes, séries, downloads e gravações �
 
 <br>
 
-<a href="https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.31.apk">
-  <img src="https://img.shields.io/badge/Baixar%20APK-Android%20v3.1.31-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK" height="56">
+<a href="https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.32.apk">
+  <img src="https://img.shields.io/badge/Baixar%20APK-Android%20v3.1.32-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Baixar APK" height="56">
 </a>
 
 <br><br>
 
-<a href="https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.31.zip"><img src="https://img.shields.io/badge/Windows-.zip-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"></a>
-<a href="https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.31_all.deb"><img src="https://img.shields.io/badge/Linux-.deb-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"></a>
-<a href="https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.31.ipk"><img src="https://img.shields.io/badge/TV%20LG-webOS%20.ipk-A50034?style=flat-square&logo=lg&logoColor=white" alt="TV LG"></a>
-<img src="https://img.shields.io/badge/vers%C3%A3o-3.1.31-blue?style=flat-square" alt="Versão 3.1.31">
+<a href="https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.32.zip"><img src="https://img.shields.io/badge/Windows-.zip-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"></a>
+<a href="https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.32_all.deb"><img src="https://img.shields.io/badge/Linux-.deb-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"></a>
+<a href="https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.32.ipk"><img src="https://img.shields.io/badge/TV%20LG-webOS%20.ipk-A50034?style=flat-square&logo=lg&logoColor=white" alt="TV LG"></a>
+<img src="https://img.shields.io/badge/vers%C3%A3o-3.1.32-blue?style=flat-square" alt="Versão 3.1.32">
 
 </div>
 
@@ -60,7 +60,10 @@ TV ao vivo com guia de programação, filmes, séries, downloads e gravações �
 - **Portal Stalker / MAC**
 - Várias fontes cadastradas, com troca rápida e atualização do catálogo
 
-### 🆕 Novo na 3.1.31
+### 🆕 Novo na 3.1.32
+- PC: o Sintonia aparece com o próprio ícone na barra de tarefas, e "Fixar na barra de tarefas" fixa o Sintonia (antes ficava agrupado no Chrome)
+
+### Novo na 3.1.31
 - PC: pasta Canais (vídeos) do YouTube, abrindo no player do YouTube dentro do Sintonia (suas extensões do Chrome valem), com chavinha para assistir com ou sem a sua conta
 - Séries: engrenagem para escolher a exibição dos episódios (grade, fileira com rolagem ou lista)
 - Séries (PC, celular, tablet e TV): episódio de continuar em destaque e lista já rolada até ele
@@ -227,10 +230,10 @@ TV ao vivo com guia de programação, filmes, séries, downloads e gravações �
 
 | Plataforma | Arquivo | Requisitos |
 |---|---|---|
-| 🤖 **Android** (celular, tablet, TV box, Android TV) | [Sintonia-3.1.31.apk](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.31.apk) | Android 7 ou mais novo |
-| 🪟 **Windows** | [Sintonia-Windows-3.1.31.zip](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.31.zip) | Windows 10/11 (o instalador instala o Python se faltar) |
-| 🐧 **Linux** (Ubuntu / Debian / udroid) | [sintonia_3.1.31_all.deb](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.31_all.deb) | Python 3 |
-| 📺 **TV LG** (webOS) | [Sintonia-TV-LG-3.1.31.ipk](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.31.ipk) | Modo desenvolvedor ativado |
+| 🤖 **Android** (celular, tablet, TV box, Android TV) | [Sintonia-3.1.32.apk](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.32.apk) | Android 7 ou mais novo |
+| 🪟 **Windows** | [Sintonia-Windows-3.1.32.zip](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.32.zip) | Windows 10/11 (o instalador instala o Python se faltar) |
+| 🐧 **Linux** (Ubuntu / Debian / udroid) | [sintonia_3.1.32_all.deb](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.32_all.deb) | Python 3 |
+| 📺 **TV LG** (webOS) | [Sintonia-TV-LG-3.1.32.ipk](https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.32.ipk) | Modo desenvolvedor ativado |
 
 Os arquivos ficam na pasta **[`downloads/`](downloads)**.
 
@@ -239,7 +242,7 @@ Os arquivos ficam na pasta **[`downloads/`](downloads)**.
 <details>
 <summary><b>🤖 Android</b></summary>
 
-1. Baixe o **Sintonia-3.1.31.apk** no aparelho (ou copie por pendrive).
+1. Baixe o **Sintonia-3.1.32.apk** no aparelho (ou copie por pendrive).
 2. Abra pelo gerenciador de arquivos.
 3. Se pedir, permita **"instalar apps de fontes desconhecidas"**.
 
@@ -263,7 +266,7 @@ Na TV/TV box o app aparece na tela inicial e usa uma tela própria para controle
 
 ```bash
 sintonia --parar 2>/dev/null; pkill -f "sintonia" 2>/dev/null; sleep 1
-sudo apt install -y ./sintonia_3.1.31_all.deb
+sudo apt install -y ./sintonia_3.1.32_all.deb
 sintonia --abrir
 ```
 </details>
@@ -280,7 +283,7 @@ pkg update -y && pkg install -y nodejs
 npm install -g @webos-tools/cli
 ares-setup-device -a tv -i "host=IP_DA_TV" -i "port=9922" -i "username=prisoner"
 ares-novacom --device tv --getkey
-ares-install --device tv ~/storage/downloads/Sintonia-TV-LG-3.1.31.ipk
+ares-install --device tv ~/storage/downloads/Sintonia-TV-LG-3.1.32.ipk
 ```
 
 O modo desenvolvedor expira a cada 50 horas — renove com `ares-extend-dev --device tv`.

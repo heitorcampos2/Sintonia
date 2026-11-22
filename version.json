@@ -1,16 +1,14 @@
 {
-  "version": "3.1.31",
+  "version": "3.1.32",
   "date": "2026-11-21",
   "notes": [
-    "PC: pasta Canais (vídeos) do YouTube, abrindo no player do YouTube dentro do Sintonia (suas extensões do Chrome valem), com chavinha para assistir com ou sem a sua conta",
-    "Séries: engrenagem para escolher a exibição dos episódios (grade, fileira com rolagem ou lista)",
-    "Séries (PC, celular, tablet e TV): episódio de continuar em destaque e lista já rolada até ele"
+    "PC: o Sintonia aparece com o próprio ícone na barra de tarefas, e \"Fixar na barra de tarefas\" fixa o Sintonia (antes ficava agrupado no Chrome)"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.31.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.31.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.31_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.31.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.32.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.32.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.32_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.32.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
