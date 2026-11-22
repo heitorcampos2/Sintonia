@@ -1,15 +1,16 @@
 {
-  "version": "3.1.42",
+  "version": "4.0",
   "date": "2026-11-22",
   "notes": [
-    "Sincronização: a posição dos vídeos dos Canais YouTube (Continuar assistindo) passa entre PC, celular, tablet e TV; vale a mais recente de cada vídeo",
-    "Celular/tablet: \"Mostrar QR deste aparelho\" corrigido — usa o endereço do Wi-Fi (antes podia pegar o dos dados móveis ou nenhum)"
+    "Melhoria de desempenho",
+    "Aviso de atualização (como o SmartTube): na 1ª abertura do dia, se saiu versão nova, o APK já vem baixado e aparece Instalar / Cancelar (no PC: Atualizar agora / Cancelar)",
+    "Visual novo de fábrica: estilo Neon, fundo Preto OLED e cor azul (dá para mudar em Tema e cores / Personalização)"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.42.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.42.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.42_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.42.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-4.0.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-4.0.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_4.0_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-4.0.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
