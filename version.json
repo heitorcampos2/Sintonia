@@ -1,16 +1,21 @@
 {
-  "version": "3.1.33",
-  "date": "2026-11-21",
+  "version": "3.1.34",
+  "date": "2026-11-22",
   "notes": [
-    "TV (Android TV e LG): título personalizado na barra lateral, em Configurações › Título personalizado; a logomarca vem do PC ou tablet pela sincronização",
-    "O título personalizado agora também passa entre PC, tablet e TV na sincronização",
-    "Segurança reforçada: sites abertos no navegador não conseguem mais mandar comandos para o Sintonia nem usá-lo para acessar a sua rede"
+    "Canais (vídeos): botão Shorts com os Shorts dos seus canais em tela em pé",
+    "PC: botão Inscrições (com a sua conta do YouTube) e, no player do YouTube, Picture-in-picture e Curtir",
+    "Novos estilos em Menu › Tema e cores: Neon, Cromado, Vidro, AMOLED e Retrô",
+    "Fundo personalizado: Preto, Branco, Cinza claro, Preto OLED ou uma cor sua — as letras se ajustam sozinhas ao fundo",
+    "Filmes e Séries: engrenagem da categoria › Tamanho dos cartões (Pequeno, Médio, Grande ou Personalizado em px)",
+    "PC: escolha o ícone do Sintonia (9 opções; também ficam na pasta 'Ícones')",
+    "TV: logomarca escolhida da galeria ou por link",
+    "PC: vídeos do YouTube abertos pelo Spectra tocam na seção Canais do Sintonia"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.33.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.33.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.33_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.33.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.34.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.34.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.34_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.34.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
