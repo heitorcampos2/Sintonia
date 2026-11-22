@@ -1,15 +1,15 @@
 {
-  "version": "3.1.35",
+  "version": "3.1.36",
   "date": "2026-11-22",
   "notes": [
-    "PC: o item clicado no Spectra abre na janela do Sintonia que já está aberta (não abre outra janela) e ela vem para a frente",
-    "PC: Inscrições, Curtir e Shorts do YouTube abrem numa janela própria, sem barra do navegador, com a sua conta"
+    "Canais (vídeos): o \"Continuar assistindo\" voltou e agora fica guardado no aparelho, aparecendo em qualquer janela do Sintonia (inclusive a aberta pelo Spectra)",
+    "PC: o player do YouTube marca certinho onde você parou; \"Abrir no YouTube\", Curtir e PiP continuam do mesmo ponto"
   ],
   "files": {
-    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.35.apk",
-    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.35.zip",
-    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.35_all.deb",
-    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.35.ipk"
+    "android": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-3.1.36.apk",
+    "windows": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-Windows-3.1.36.zip",
+    "linux": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/sintonia_3.1.36_all.deb",
+    "lg": "https://github.com/heitorcampos2/Sintonia/raw/main/downloads/Sintonia-TV-LG-3.1.36.ipk"
   },
   "page": "https://github.com/heitorcampos2/Sintonia"
 }
